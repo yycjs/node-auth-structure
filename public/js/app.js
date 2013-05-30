@@ -5,11 +5,10 @@ $(function () {
 
   $('#loginButton').login('jQuery plugin Hooray!');
 
-  $.getJSON('data.json', function(profiles) {
+  $.getJSON('http://localhost:8080/stories', function(profiles) {
     $('.container.profiles').mustache('profiles', {
       profiles: profiles
     });
   });
-
-
+  
 }());
