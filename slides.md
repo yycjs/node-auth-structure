@@ -48,15 +48,6 @@
 
 ---
 
-## A Blog in 7 Lines with [Olives](http://flams.github.io/olives/)
-
-Olives allows you to create real-time HTML5 applications, in no time!
-
-<br>
-![Cartoon Olives](images/cartoon-olives.gif)
-
----
-
 ## Native vs. Web
 
 Still an on going debate but.... web is getting more hi-tech weapons
@@ -97,6 +88,15 @@ Qr control is a tiny library that allows you to remote control your browser from
 Taking mobile augmented web experience to the next level. Who needs a wii anymore??
 
 ![Sad Wii](images/sad_wii.jpg)
+
+---
+
+## A Blog in 7 Lines with [Olives](http://flams.github.io/olives/)
+
+Olives allows you to create real-time HTML5 applications, in no time!
+
+<br>
+![Cartoon Olives](images/cartoon-olives.gif)
 
 ---
 
